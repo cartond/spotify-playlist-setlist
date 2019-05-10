@@ -11,7 +11,7 @@ const fixture = {
   },
 };
 
-describe('ExampleView', () => {
+describe('MainView', () => {
   it('should render a blank div without data', () => {
     const el = shallow(<Example />)
 

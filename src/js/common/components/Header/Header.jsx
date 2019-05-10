@@ -18,7 +18,6 @@ class Header extends PureComponent {
             {
               isHome
                 ? 'Home' : <Link to="/">Home</Link>
-
             }
           </li>
           <li className={!isJustAnotherPage ? styles.active : ''}>

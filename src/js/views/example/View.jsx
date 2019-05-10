@@ -3,69 +3,38 @@ import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 
 // This is i18n and i10n
-import {
-  FormattedMessage,
-  FormattedDate,
-  FormattedTime,
-} from 'react-intl'
+import { FormattedMessage } from 'react-intl'
 
 import LazyLoading from '../../common/components/LazyLoading'
 import { actions as exampleActions } from '../../redux/modules/example'
+import SearchForm from '../../common/components/Utilities/SearchForm'
 import { exampleSelector } from '../../redux/selectors/exampleSelector'
-import { ExampleWithError } from '../../common/components/Example'
-import { ErrorBoundary } from '../../common/components/Utilities'
 
 // This is lazy loading example
 const LazyExample = LazyLoading(() => import('../../common/components/Example/Example'))
+// const SearchInputBox = SearchForm(() => import('../../common/components/Utilities/SearchForm'))
 
-class ExampleView extends Component {
-  static propTypes = {
-    example: PropTypes.object.isRequired,
-  }
-
+class MainView extends Component {
   state = {
-    myArbitraryNumber: Math.floor(Math.random() * 10000),
-    currentTime: new Date(),
+    searchInput: '',
   }
+
+  handleSearchChangeValue = e => this.setState({searchInput: e.target.value});
+
 
   componentDidMount() {
-    const { getAwesomeCode } = this.props
-
-    getAwesomeCode()
+    // this.setState({isLoading: false})
   }
 
   render() {
     const {
-      myArbitraryNumber,
-      currentTime,
+      searchInput
     } = this.state
 
     return (
       <Fragment>
-        <LazyExample {...this.props} />
-        <h2>This framework supports i18n and i10n out of the box.</h2>
-        <FormattedMessage
-          id="hooray"
-          defaultMessage={`A locallized random number: {myArbitraryNumber, number} {myArbitraryNumber, plural,
-            one {item}
-            other {items}
-          }`}
-          values={{
-            name: <b>Visitor</b>,
-            myArbitraryNumber,
-          }}
-        />
-        <p>
-          The date is: &nbsp;
-          <FormattedDate value={currentTime} />
-        </p>
-        <p>
-          The time is: &nbsp;
-          <FormattedTime value={currentTime} />
-        </p>
-        <ErrorBoundary>
-          <ExampleWithError {...this.props} />
-        </ErrorBoundary>
+        <SearchForm searchInput={{searchInput}} onChangeValue={this.handleSearchChangeValue} />
+        <p>Go search for: <i>{searchInput ? searchInput : 'Nothing '}</i></p>
       </Fragment>
     )
   }
@@ -82,4 +51,4 @@ const mapDispatchToProps = {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(ExampleView)
+)(MainView)

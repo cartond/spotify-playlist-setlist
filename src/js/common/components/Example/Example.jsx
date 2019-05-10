@@ -46,15 +46,8 @@ class Example extends PureComponent {
     if (result) {
       return (
         <div className={styles.exampleOutput}>
-          <h1>
-            Let&apos;s Get
-            <span className={styles.emphasize}>Started</span>
-          </h1>
-          <p>If you see this screen, it means you are all setup \o/</p>
-          <p>The following JSON are showing contents coming from Redux, Saga and Config.</p>
-          <pre>
-            {JSON.stringify(result, undefined, 2)}
-          </pre>
+          <h1>Hello</h1>
+          <p>If you see this screen, it means lazy loading is working</p>
         </div>
       );
     }

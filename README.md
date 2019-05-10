@@ -1,19 +1,8 @@
 ```
 npm install
-```
-
-```
 npm run dev
+navigate to localhost:8080
 ```
-
-0. Go to your project root in your host machine  ( e.g. your Mac )
-1. Run `npm run dev` in your terminal ( wait until the dashboard show complete status )
-2. Go to your browser and go to `localhost:8080`
-3. Make code changes
-4. If there are compilation errors, you will see it in the terminal dashboard
-5. Watch your code changes reflect on browser without refreshing
-6. Repeat your development steps
-
 
 ## Folder Structure
 

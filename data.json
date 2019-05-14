@@ -1,0 +1,209 @@
+{
+    "itemsPerPage": "30",
+    "page": "1",
+    "total": "33",
+    "artist": [
+       {
+          "mbid": "1814cbfc-131d-473f-a6e7-7208a25a69c1",
+          "name": "The Australian Pink Floyd Show",
+          "sortName": "Australian Pink Floyd Show, The",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/the-australian-pink-floyd-show-bd3e172.html"
+       },
+       {
+          "mbid": "21b962b4-c742-48e4-8270-3f71fd7f2a8c",
+          "name": "Syd Barrett feat. Pink Floyd",
+          "sortName": "Barrett, Syd feat. Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/syd-barrett-feat-pink-floyd-3bdc3ccc.html"
+       },
+       {
+          "mbid": "b32609b0-d91e-4227-a7c5-998facfe8741",
+          "name": "Celtic Pink Floyd",
+          "sortName": "Celtic Pink Floyd",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/celtic-pink-floyd-2bdc601e.html"
+       },
+       {
+          "mbid": "44975f95-b4c2-4d67-8c45-c25ea206c3a7",
+          "name": "British Rock Royalty",
+          "sortName": "Cover Band of the Who, Queen, Led Zepplin, Pink Floyd",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/british-rock-royalty-6bc95ea6.html"
+       },
+       {
+          "mbid": "28f563b1-6189-4e64-8455-12e6c0e5ae9e",
+          "name": "Echoes of Pink Floyd",
+          "sortName": "Echoes of Pink Floyd",
+          "disambiguation": "Australian Pink Floyd tribute band",
+          "url": "https://www.setlist.fm/setlists/echoes-of-pink-floyd-3bcc9844.html"
+       },
+       {
+          "mbid": "736a50aa-2d24-40d7-9c59-1b764afd3036",
+          "name": "Echoes of Pink Floyd",
+          "sortName": "Echoes of Pink Floyd",
+          "disambiguation": "American Pink Floyd tribute band",
+          "url": "https://www.setlist.fm/setlists/echoes-of-pink-floyd-bd54d72.html"
+       },
+       {
+          "mbid": "bdd7f1e2-6807-468c-bce0-2a308ece87e2",
+          "name": "Eclipse the Pink Floyd Story",
+          "sortName": "Eclipse the Pink Floyd Story",
+          "disambiguation": "Canada",
+          "url": "https://www.setlist.fm/setlists/eclipse-the-pink-floyd-story-13c635a5.html"
+       },
+       {
+          "mbid": "542483c6-15eb-439e-8861-5c4137129c60",
+          "name": "Eric Pryds vs. Pink Floyd",
+          "sortName": "Eric Pryds, vs. Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/eric-pryds-vs-pink-floyd-53d56b55.html"
+       },
+       {
+          "mbid": "8fef52ab-c2a4-4393-a5c7-292f5d60a5e4",
+          "name": "Wish They Were Here",
+          "sortName": "Live Pink Floyd",
+          "disambiguation": "A Live Pink Floyd Tribute",
+          "url": "https://www.setlist.fm/setlists/wish-they-were-here-4bc8cb32.html"
+       },
+       {
+          "mbid": "3d96795c-eb12-462c-904c-48380e3e08f3",
+          "name": "Pigs: Canada's Most Authentic Pink Floyd Tribute",
+          "sortName": "Pigs: Canada's Most Authentic Pink Floyd Tribute",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/pigs-canadas-most-authentic-pink-floyd-tribute-3bce68b8.html"
+       },
+       {
+          "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+          "tmid": "768805",
+          "name": "Pink Floyd",
+          "sortName": "Pink Floyd",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+       },
+       {
+          "mbid": "8b18fcdd-cabc-464b-9b2b-fc3b171e66e6",
+          "tmid": "890996",
+          "name": "The Pink Floyd Experience",
+          "sortName": "Pink Floyd Experience, The",
+          "disambiguation": "New Zealand Pink Floyd tribute band",
+          "url": "https://www.setlist.fm/setlists/the-pink-floyd-experience-63d26247.html"
+       },
+       {
+          "mbid": "29e4de23-3a55-4c69-a299-5ff3ed0c6c6a",
+          "name": "Pink Floyd History",
+          "sortName": "Pink Floyd History",
+          "disambiguation": "Tribute Band",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-history-73cab675.html"
+       },
+       {
+          "mbid": "b9774956-3089-4fc2-a77e-8437b9e63a57",
+          "name": "Pink Floyd Legend",
+          "sortName": "Pink Floyd Legend",
+          "disambiguation": "Italian Pink Floyd Tribute",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-legend-3f631a3.html"
+       },
+       {
+          "mbid": "9a824a85-f1ac-4b89-9bdd-04c0bed13eba",
+          "name": "Pink Floyd Live",
+          "sortName": "Pink Floyd Live",
+          "disambiguation": "Pink Floyd Tributo",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-live-1bcf817c.html"
+       },
+       {
+          "mbid": "a7e5d0ad-5244-4144-9764-b7040423debe",
+          "name": "Pink Floyd Project",
+          "sortName": "Pink Floyd Project",
+          "disambiguation": "Danish Pink Floyd cover band",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-project-13d32da1.html"
+       },
+       {
+          "mbid": "06918e65-42d3-49c3-be43-09619d99eb06",
+          "name": "The Pink Floyd Project",
+          "sortName": "Pink Floyd Project, The",
+          "disambiguation": "Dutch Pink Floyd Tribute",
+          "url": "https://www.setlist.fm/setlists/the-pink-floyd-project-bc769fa.html"
+       },
+       {
+          "mbid": "54271f51-902b-48f7-8df2-a9506f05f624",
+          "name": "The Pink Floyd Sound",
+          "sortName": "Pink Floyd Sound, The",
+          "disambiguation": "Dutch Pink Floyd Coverband",
+          "url": "https://www.setlist.fm/setlists/the-pink-floyd-sound-2bdfe8fe.html"
+       },
+       {
+          "mbid": "90493228-bf2a-4d0d-b464-6cdc6ebf37f5",
+          "name": "Pink Floyd feat. Richard Wright",
+          "sortName": "Pink Floyd feat. Wright, Richard",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-feat-richard-wright-73c08ed1.html"
+       },
+       {
+          "mbid": "13550f1e-56a5-4dbb-8b57-5d06b1222d11",
+          "name": "Pink Floyd with Stéphane Grappelli",
+          "sortName": "Pink Floyd with Grappelli, Stéphane",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-with-stephane-grappelli-7bd3ee54.html"
+       },
+       {
+          "mbid": "263d838b-e3cb-471c-9f39-501ecedada46",
+          "name": "Pink Floyd with Frank Zappa",
+          "sortName": "Pink Floyd with Zappa, Frank",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-with-frank-zappa-3c0fda3.html"
+       },
+       {
+          "mbid": "cc36406a-02c0-44a1-b5a1-46e9945fe0da",
+          "name": "Pink Floyd with the Philip Jones Brass Ensemble / John Alldis Choir",
+          "sortName": "Pink Floyd with the Philip Jones Brass Ensemble / John Alldis Choir, The",
+          "url": "https://www.setlist.fm/setlists/pink-floyd-with-the-philip-jones-brass-ensemble-john-alldis-choir-3bc0807c.html"
+       },
+       {
+          "mbid": "ee578ee1-4ac7-4c32-923e-e462aef0eaa5",
+          "name": "Pink's One - feat. Machan Taylor",
+          "sortName": "Pink's One",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/pinks-one-feat-machan-taylor-43d833cf.html"
+       },
+       {
+          "mbid": "748963c5-1c45-41cf-9e8a-a5f35f28ed16",
+          "name": "Pink's One - Pink Floyd tribute band feat. Machan Taylor",
+          "sortName": "Pink's One - Pink Floyd tribute band feat. Machan Taylor",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/pinks-one-pink-floyd-tribute-band-feat-machan-taylor-5bd833f4.html"
+       },
+       {
+          "mbid": "ad7609d1-6e23-46f1-bcde-8c90091a31eb",
+          "name": "Eric Prydz vs Floyd",
+          "sortName": "Prydz, Eric vs Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/eric-prydz-vs-floyd-23d150f3.html"
+       },
+       {
+          "mbid": "e671caa7-6089-4892-8c18-643406b30a81",
+          "name": "Eric Prydz vs. Pink Floyd",
+          "sortName": "Prydz, Eric vs. Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/eric-prydz-vs-pink-floyd-43df074b.html"
+       },
+       {
+          "mbid": "d5714af1-5891-4c27-8cb1-314b98984886",
+          "name": "Eric Prydz vs. Floyd",
+          "sortName": "Prydz, Eric vs. Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/eric-prydz-vs-floyd-63d656bf.html"
+       },
+       {
+          "mbid": "5fe709e0-faa5-4ecf-9a08-f89022846a83",
+          "name": "Ty Segall & Mikal Cronin, written by Pink Floyd",
+          "sortName": "Segall, Ty & Mikal Cronin, written by Pink Floyd",
+          "url": "https://www.setlist.fm/setlists/ty-segall-and-mikal-cronin-written-by-pink-floyd-3bdc24fc.html"
+       },
+       {
+          "mbid": "57a80e0c-3077-4b19-be01-c1e3256592a4",
+          "name": "Signs Of Life: The Essence Of Pink Floyd",
+          "sortName": "Signs Of Life: The Essence Of Pink Floyd",
+          "disambiguation": "",
+          "url": "https://www.setlist.fm/setlists/signs-of-life-the-essence-of-pink-floyd-7bc1d60c.html"
+       },
+       {
+          "mbid": "a503630a-954f-475b-96fb-54c21e3fd226",
+          "name": "Symphonic of Pink Floyd",
+          "sortName": "Symphonic of Pink Floyd",
+          "disambiguation": "Pink Floyd tribute band",
+          "url": "https://www.setlist.fm/setlists/symphonic-of-pink-floyd-23cdcc37.html"
+       }
+    ]
+ }

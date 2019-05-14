@@ -10,9 +10,13 @@ class ResultsList extends PureComponent {
   render() {
     return (
       <ul className={styles.results_list}>
-        {
-          this.props.data.searchResults.map((result) =>
-            <li key={result}>{result}</li>
+        { this.props.data.searchResults.artist ? (
+              this.props.data.searchResults.artist.map((result) =>
+                <li key={result.mbid}>{result.name} {result.disambiguation ? (' AKA: ' + result.disambiguation) : ('')}</li>
+              )
+          ) : (
+            <li>'Not Today'</li>
+
           )
         }
       </ul>
